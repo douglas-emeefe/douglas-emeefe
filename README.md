@@ -3,10 +3,9 @@
   Descobri o que dava para fazer com tecnologia no ano de 2018, quando ingressei no Instituto Federal do Amazonas (IFAM) para cursar o Ensino Médio Técnico em Informática. Com uma base sólida e o apoio de excelentes professores, me apaixonei por tecnologia e inovação. Após concluir o ensino médio, continuei desenvolvendo minha carreira acadêmica e dei início à faculdade de Ciência da Computação. Hoje, já formado, tenho absoluta certeza de que esta é a profissão da minha vida.
 
 <div>
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=douglas-emeefe&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-emeefe&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=douglas-emeefe&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-emeefe&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact">
 </div>
-
 
 ## Contato:
 
